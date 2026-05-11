@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<professions>
+    <profession>
+        <title>Frontend-разработчик</title>
+        <description>Создаёт интерфейсы сайтов: кнопки, меню, анимации</description>
+        <link>frontend.html</link>
+        <image>../image/SVG/dev.svg</image>
+    </profession>
+    
+    <profession>
+        <title>Тестировщик (QA)</title>
+        <description>Ищет ошибки в программах, чтобы они работали правильно</description>
+        <link>QA.html</link>
+        <image>../image/SVG/tester.svg</image>
+    </profession>
+    
+    <profession>
+        <title>Project Manager</title>
+        <description>Управляет командой и сроками разработки</description>
+        <link>PM.html</link>
+        <image>../image/SVG/manager.svg</image>
+    </profession>
+</professions>
